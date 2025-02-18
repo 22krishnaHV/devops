@@ -1,0 +1,1 @@
+t init  git status vi add.txt  git add add.txt git status git commit -m "...." git clone url  git config user.name  user.email  git pull --rebase orgin main git push orgin main 
